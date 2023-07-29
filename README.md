@@ -4,8 +4,10 @@ Hey! I'm viperidae! I'm a teen web-dev and upcoming game dev.<br>I work mostly i
 
 
 # 🎧 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=viperidaee&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=viperidaee&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=viperidaee&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=viperidaee&theme=tokyonight&hide_border=true)<br>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viperidaee&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
