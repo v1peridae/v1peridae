@@ -18,7 +18,7 @@
 
 ###
 
-<p align="center">→ Current back-end apprentice dev  @ Vercible<br>→ Part-time CS tutor @ TheCodingSisterhood</p>
+<p align="center">→ Part-time CS tutor @ TheCodingSisterhood</p>
 
 ###
 
