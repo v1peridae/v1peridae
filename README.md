@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🪴 • I've been coding since 2018, started off with Stride.<br>🌱 • I'm currently learning React, Node.js and Unreal Engine.<br>🌆 • I hope to live in New York in the future:)</p>
+<p align="left">🪴 • I've been coding since 2018, started off with Stride.<br>🌱 • I'm currently working on a different project which means you might not hear much from me here.<br>🌆 • I hope to live in New York in the future:)</p>
 
 ###
 
