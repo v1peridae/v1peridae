@@ -2,11 +2,11 @@
 
 ###
 
-<p align="center">Hii! I'm Louisa, a current Year 11 web-dev, data science student and upcoming game dev from Kenya.</p>
+<p align="center">Hii! I'm Louisa, a current Year 11 web-dev, data science student and upcoming game dev from Kenya. I currently work as a database engineer (explains the few coms since August ToT)!</p>
 
 ###
 
-<p align="left">🪴 • I've been coding since 2018, started off with Stride.<br>🌱 • I'm currently working on a different project which means you might not hear much from me here.<br>🌆 • I hope to live in New York in the future:)</p>
+<p align="left">🪴 • I've been coding since 2018, started off with Stride.<br>🌱 • In my free time I loovee gardening and crocheting.<br>🌆 • I hope to live in New York in the future:)</p>
 
 ###
 
@@ -19,6 +19,8 @@
 ###
 
 <p align="center">→ Part-time CS tutor @ TheCodingSisterhood</p>
+<p align="center">→ Database Engineer @ [redacted]</p>
+
 
 ###
 
