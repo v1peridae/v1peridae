@@ -19,7 +19,7 @@
 ###
 
 <p align="center">→ Part-time CS tutor @ TheCodingSisterhood</p>
-<p align="center">→ Database Engineer @ [redacted]</p>
+<p align="center">→ Back-End Developer @ [redacted]</p>
 
 
 ###
