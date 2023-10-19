@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🪴 • I've been coding since 2018, started off with Stride (bestie, dont start with Java Stride, speaking from experience yall).<br>🌱 • In my free time I loovee gardening and crocheting and cooking (yum).<br>🌆 • I hope to live in New York in the future ~Empire State of Mind plays in the background :)</p>
+<p align="left">🪴 • I've been coding since 2018, started off with Stride (bestie, dont start with Java Stride, speaking from experience yall).<br>🌱 • In my free time I loovee gardening and crocheting and cooking (yum).<br>🌆 • Aspiring software engineer in the aviation field :)</p>
 
 ###
 
