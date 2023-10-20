@@ -18,12 +18,6 @@
 
 ###
 
-<p align="center">→ Part-time CS tutor @ TheCodingSisterhood</p>
-<p align="center">→ Back-End Developer @ [redacted]</p>
-
-
-###
-
 <h1 align="left"></h1>
 
 ###
