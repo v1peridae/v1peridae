@@ -49,7 +49,7 @@
 ### My coding hours each week (Updated Every 20 Mins since 19th Oct 23)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2033%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -83,5 +83,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2023 14:06:49 UTC
+ Last Updated on 20/10/2023 14:21:54 UTC
 <!--END_SECTION:waka-->
