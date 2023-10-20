@@ -1,20 +1,21 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "*/20 * * * *"
+    - cron:  '*/10 * * * *'
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_SHORT_INFO: "False" 
+          SHOW_LOC_CHART: "False"
+          SHOW_COMMIT: "False"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: =>
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          TIME_RANGE: last_7_days
-          LANG_COUNT: 4
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
