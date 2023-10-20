@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
 </div>
 
-### My coding hours each week (Updated Every 20 Mins)
+### My coding hours each week (Updated Every 20 Mins since 19th Oct 23)
 
 <!--START_SECTION:waka-->
 
