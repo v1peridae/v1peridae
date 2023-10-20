@@ -14,10 +14,6 @@
 
 ###
 
-<h3 align="center">🌵 Current CS related Activities:</h3>
-
-###
-
 <h1 align="left"></h1>
 
 ###
