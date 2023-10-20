@@ -39,7 +39,7 @@
 ### 
 
 <h3 align="center">☘️My coding hours each week</h3>
-<h6 align="center">(Updated Every 10 Mins since 19th Oct 23)</h6>
+<h6 align="center">(Updated daily since 19th Oct 23)</h6>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2037%20mins-blue)
