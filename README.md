@@ -46,7 +46,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
 </div>
 
-### My coding hours each week (Updated Every 20 Mins since 19th Oct 23)
+### 
+
+<h3 align="center">☘️My coding hours each week</h3>
+<h6 align="center">(Updated Every 10 Mins since 19th Oct 23)</h6>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2043%20mins-blue)
