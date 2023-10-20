@@ -51,6 +51,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 1 hr 45 mins
+
 Python           1 hr 31 mins    >>>>>>>>>>>>>>>>>>>>>====   83.09 %
 HTML             13 mins         >>>======================   12.13 %
 Other            4 mins          >========================   03.95 %
