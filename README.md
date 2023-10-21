@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🪴 • I've been coding since 2018, started off with Stride (bestie, dont start with Java Stride, speaking from experience).<br>🌱 • In my free time I loovee gardening and crocheting and cooking (yum).<br>🌆 • Aspiring machine learning engineer/scientist (manifesting a PhD) :) <br>🕸️ • I also LOVE Spiderman (Miles Morales' series) </p>
+<p align="left">🪴 • I've been coding since 2018, started off with Stride (bestie, dont start with Java Stride, speaking from experience).<br>🌱 • In my free time I loovee gardening and crocheting and cooking (yum).<br>🌆 • Aspiring machine learning engineer/scientist (manifesting a PhD) :) <br>👩🏽‍💻 • I love Computer Science and Maths :0 </p>
 
 ###
 
