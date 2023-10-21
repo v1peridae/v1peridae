@@ -42,7 +42,7 @@
 <h6 align="center">(Updated daily since 19th Oct 23)</h6>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2048%20mins-blue)
 
 📅 **I'm Most Productive on Friday** 
 
@@ -87,5 +87,5 @@ JavaScript               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 21/10/2023 14:42:35 UTC
+ Last Updated on 21/10/2023 14:52:33 UTC
 <!--END_SECTION:waka-->
