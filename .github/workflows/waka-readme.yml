@@ -12,6 +12,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_PROJECTS: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False" 
