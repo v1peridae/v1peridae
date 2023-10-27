@@ -38,8 +38,7 @@
 
 ### 
 
-<h3 align="center">☘️My coding hours each week</h3>
-<h6 align="center">(Updated daily since 19th Oct 23)</h6>
+<h3 align="center">☘️My coding stats each week</h3>
 
 <!--START_SECTION:waka-->
 📅 **I'm Most Productive on Friday** 
