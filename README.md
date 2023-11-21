@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🪴 • I've been coding since 2018, and I started off with Java Stride.<br>🌱 • In my free time I loovee gardening, crocheting and playing Overwatch 2.<br>🌆 • Aspiring machine learning engineer/scientist (manifesting a PhD) :) <br>👩🏽‍💻 • I also really love Computer Science and Maths. <br> ☎️You can reach me through <a href="https://discordapp.com/users/930765087583633468">Discord</a>.
+<p align="left">🪴 • I've been coding since 2018, and I started off with Java Stride.<br>🌱 • In my free time I loovee gardening, crocheting and playing Overwatch 2.<br>🌆 • Aspiring machine learning engineer/scientist (manifesting a PhD) :) <br>👩🏽‍💻 • I also really love Computer Science and Maths. <br> ☎️ • You can reach me through <a href="https://discordapp.com/users/930765087583633468">Discord</a>.
   
 ###
 
