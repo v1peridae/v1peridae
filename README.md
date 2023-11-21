@@ -2,12 +2,12 @@
 
 ###
 
-<p align="center">Hii! I'm Louisa, a current Year 11 web-dev, data science student and upcoming game dev from Kenya. I currently work as a database engineer (explains the few coms since August ToT)!</p>
+<p align="center">Hii! I'm Louisa, a current Year 11 web-dev, data science student and upcoming game dev from Kenya. Currently working w/ some friends on a project called Vercible :0</p>
 
 ###
 
-<p align="left">🪴 • I've been coding since 2018, and I started off with Java Stride.<br>🌱 • In my free time I loovee gardening, crocheting and cooking (yum).<br>🌆 • Aspiring machine learning engineer/scientist (manifesting a PhD) :) <br>👩🏽‍💻 • I also really love Computer Science and Maths. </p>
-
+<p align="left">🪴 • I've been coding since 2018, and I started off with Java Stride.<br>🌱 • In my free time I loovee gardening, crocheting and playing Overwatch 2.<br>🌆 • Aspiring machine learning engineer/scientist (manifesting a PhD) :) <br>👩🏽‍💻 • I also really love Computer Science and Maths. <br> ☎️You can reach me through <a href="https://discordapp.com/users/930765087583633468">Discord</a>.
+  
 ###
 
 <h1 align="left"></h1>
