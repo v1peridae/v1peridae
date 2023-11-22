@@ -1,4 +1,4 @@
-<h1 align="center">🌿About Me</h1>
+<h1 align="center">🩷About Me</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🪴 • I've been coding since 2018, and I started off with Java Stride.<br>🌱 • In my free time I loovee gardening, crocheting and playing Overwatch 2.<br>🌆 • Aspiring machine learning engineer/scientist (manifesting a PhD) :) <br>👩🏽‍💻 • I also really love Computer Science and Maths. <br> ☎️ • You can reach me through <a href="https://discordapp.com/users/930765087583633468">Discord</a>.
+<p align="left">🎀 • I've been coding since 2018, and I started off with Java Stride :0 <br>💌 • In my free time I loovee gardening, crocheting and playing Overwatch 2 <3<br>👩🏽‍💻 • I also really love Computer Science and Maths >.< <br> ☎️ • You can reach me through <a href="https://discordapp.com/users/930765087583633468">Discord</a> ^^
   
 ###
 
@@ -37,8 +37,6 @@
 </div>
 
 ### 
-
-<h3 align="center">☘️My coding stats each week</h3>
 
 <!--START_SECTION:waka-->
 📅 **I'm Most Productive on Friday** 
