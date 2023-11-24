@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hii! I'm Louisa, a current Year 11 web-dev, data science student and upcoming game dev from Kenya. Currently working w/ some friends on a project called Vercible :0</p>
+<p align="center">Hii! I'm Louisa, a current Year 11 CS enthusiast from Kenya :0</p>
 
 ###
 
