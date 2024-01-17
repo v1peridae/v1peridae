@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎀 • I've been coding since <s>1970 (check my 1st contribution)</s> 2018, and I started off with Java Stride :0 <br>💌 • In my free time I loovee gardening, cooking and crocheting <3<br>👩🏽‍💻 • I also really love Computer Science and Maths >.< <br> ☎️ • You can reach me through <a href="https://discordapp.com/users/930765087583633468">Discord</a> ^^ <br> 🩷 • <b>Quick notice</b>: I'm having some trouble with my coding time tracker but it will be fixed soon <3
+<p align="left">🎀 • I've been coding since <s>1970 (check my 1st contribution)</s> 2018, and I started off with Java Stride :0 <br>💌 • In my free time I loovee gardening, cooking and crocheting <3<br>👩🏽‍💻 • I also really love Computer Science and Maths >.< <br> ☎️ • You can reach me through <a href="https://discordapp.com/users/930765087583633468">Discord</a> ^^ 
   
 ###
 
