@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hii! I'm Louisa, a current Year 11 CS enthusiast :0</p>
+<p align="center">Hii! I'm Louisa, a current Year 11 CS enthusiast</p>
 
 ###
 
