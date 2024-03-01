@@ -8,7 +8,7 @@
 
 <p align="left">🎀 • I've been coding since <s>1970 (check my 1st contribution)</s> 2018, and I'm currently working on revamping my website! <br>💌 • In my free time I loovee gardening, cooking and crocheting <3<br>👩🏽‍💻 • I also really love Computer Science and Maths >.< <br> ☎️ • You can reach me through <a href="https://discordapp.com/users/930765087583633468">Discord</a> ^^ 
 
-<p align="left">🌸Cause of inactivity: AWS Deepracer and DataCamp competition/p>
+<p align="left">🌸Cause of inactivity: AWS Deepracer and DataCamp competition</p>
   
 ###
 
