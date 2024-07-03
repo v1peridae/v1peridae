@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hii! I'm Louisa, a current Year 12 coding enthusiast</p>
+<p align="center">Hii! I'm Louisa, a homeschooled Year 12 coding enthusiast :3 </p>
 
 ###
 
