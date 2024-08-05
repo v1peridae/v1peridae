@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎀 • I've been coding since <s>1970 (check my 1st contribution)</s> 2018 <br>💌 • In my free time I loovee working on some silly arduino projects, listening to music (lots of 90s rock, metal and grunge music), connecting w nature and being an avid cinephile <3<br>👩🏽‍💻 • I also really love Computer Science and Maths >.< 
+<p align="left">🎀 • I've been coding since <s>1970 (check my 1st contribution)</s> 2018 :0 <br>💌 • In my free time I loovee working on some silly arduino projects, listening to music (lots of 90s rock, metal and grunge music), connecting w nature and being an avid cinephile <3<br>👩🏽‍💻 • I also really love Computer Science and Maths >.< 
   
 ###
 
