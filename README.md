@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎀 • I've been coding since <s>1970 (check my 1st contribution)</s> 2018! <br>💌 • In my free time I loovee listening to music, connecting w nature and being an avid cinephile <3<br>👩🏽‍💻 • I also really love Computer Science and Maths >.< <br> ☎️ • You can reach me through <a href="https://discordapp.com/users/930765087583633468">Discord</a> ^^ 
+<p align="left">🎀 • I've been coding since <s>1970 (check my 1st contribution)</s> 2018 <br>💌 • In my free time I loovee working on some silly arduino projects, listening to music (lots of 90s rock, metal and grunge music), connecting w nature and being an avid cinephile <3<br>👩🏽‍💻 • I also really love Computer Science and Maths >.< 
   
 ###
 
@@ -56,5 +56,5 @@ Windows                  4 hrs 33 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 05/08/2024 15:34:45 UTC
+ Last Updated on 05/08/2024 14:36:05 UTC
 <!--END_SECTION:waka-->
