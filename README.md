@@ -20,7 +20,7 @@
 
 <h3 align="center">🌸I work in:</h3>
 <div align="center">
-<h4>Hardware & 3D Design</h4>
+<h4>Hardware</h4>
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
