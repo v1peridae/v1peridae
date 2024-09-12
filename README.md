@@ -23,9 +23,13 @@
 <h4>Hardware</h4>
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"/>
+<img src="https://avatars.githubusercontent.com/u/3374914?s=280&v=4" alt="kicad" width="40" height="40"/>
+<img src="https://www.cadac.com/contentassets/4bb5f46bc306477bb06ccae91776c659/autodesk-fusion-product-icon-400.png" alt="fusion" width="40" height="40"/>
+  <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+
   <br>
   
 <h4>Web Development</h4>
