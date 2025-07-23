@@ -6,8 +6,8 @@
 
 ###
 
-<p align="left"> ive been coding for while now but tbh id still consider myself somewhat a beginner lol. i do like web dev + hardware stuff! im also an avid cinephile and melomaniac :)
-<p align="left">ignore all my bad commit names i promise i actually write normal code !
+<p align="left"> ive been coding for while now and i like lots of stuff to do with web dev + hardware! im also an avid cinephile and melomaniac :)
+<p align="left">right now i'm working on de.list, a really chill web-app for bookworks :D
 
   
 ###
