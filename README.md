@@ -7,7 +7,7 @@
 ###
 
 <p align="left"> ive been coding for while now and i like lots of stuff to do with web dev + hardware! im also an avid cinephile and melomaniac :)
-<p align="left">right now i'm working on de.list, a really chill web-app for bookworms :D
+<p align="left">right now i'm working on 'a web collection', which is....well...a collection of internet finds!
 
   
 ###
