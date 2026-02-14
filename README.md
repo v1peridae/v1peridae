@@ -8,12 +8,4 @@
 
 <p align="left"> ive been coding for while now and i like lots of stuff to do with web dev + hardware! im also an avid cinephile and unfortunate melomaniac :)
 <p align="left">check out my website btw : https://v1peridae.me </p>
-  
-###
-
-<h1 align="center">listening to...</h1>
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31x5b45bkzcydzcnxenlf7jdvqxq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=true&bar_color=f7a6ec&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31x5b45bkzcydzcnxenlf7jdvqxq&redirect=true)
-
-</div>
+<p align="left"> currently studying for my alevel exams so not so much is going on here :')</p>
