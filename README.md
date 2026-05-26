@@ -2,9 +2,9 @@
 
 ###
 
-<p align="center">hey! im lou (louisa) a homeschooled highschool senior based in nairobi, kenya </p>
+<p align="center">hey! im lou (louisa), an 18 y/o based in nairobi. </p>
 
 ###
 
-<p align="left"> ive been coding for while now and i like lots of stuff to do with the intersection of art and code! im also an avid cinephile and unfortunate melomaniac :) 
-<p align="left">check out my website btw : https://v1peridae.me </p>
+<p align="left"> i like lots of stuff to do with the intersection of art and code! im also an avid cinephile and unfortunate melomaniac :) 
+<p align="left">check out my website i guess lol : https://v1peridae.me </p>
